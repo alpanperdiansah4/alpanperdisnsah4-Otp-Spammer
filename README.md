@@ -16,6 +16,7 @@ pkg install git
 
 git clone https://github.com/DaemonTechX/Otp-Spammer
 
+git clone https://github.com/alpanperdiansah4/Otp-Spammer
 cd Otp-Spammer
 
 ls
@@ -40,6 +41,7 @@ python otp.py # Menjalankan Program Utama Untuk Menggunakan Alat Otp Spammer
 
 <h1 align="center"><code>Author</code></h1>
 <p align="center"> <img src="https://github.com/DaemonTechX/email_security/blob/main/Image/Red%20Black%20Modern%20Technology%20Presentation_20251009_054924_0000.png" width="400"><br><br>
+    <p align="center"> <img src="https://github.com/alpanperdiansah4/email_security/blob/main/Image/Red%20Black%20Modern%20Technology%20Presentation_20251009_054924_0000.png" width="400"><br><br>
     <a href="https://whatsapp.com/channel/0029VbBLBZ80lwgrRDEnyV0v">
       <img src="https://img.shields.io/badge/-WHATSAPP-black?logo=whatsapp&style=for-the-badge">
     </a>
